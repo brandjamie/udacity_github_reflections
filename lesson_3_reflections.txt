@@ -21,3 +21,9 @@ Collaboration using Git and GitHub
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder.
 
 Almost everything would be harder without git. Collaboration with only one person could be doable with google docs or similar but with more than a couple of people it would quickly become problematic. 
+
+When to use a separate brance
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have.
+
+If you are collaborating with someone else, making changes in a separate branch allows you to check for any conflicts before merging
