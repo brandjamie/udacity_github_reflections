@@ -26,3 +26,8 @@ Visualising witj Diagrams
 How do the diagrams help you visualize the branch structure
 
 The diagrams show which branch each commit affects and make dealing with multiple branches much more managable
+
+Merging Two Branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Git compares each file to the files in the commit when the branches were made. If there is a change in one branch, the change is reflected in the new merged branch. If the change is in more than one branch it will fail.
