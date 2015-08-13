@@ -20,3 +20,9 @@ When to Use Branches
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches would be useful for any situation where we are creating a different version of the program. They would also be useful for adding features that could break other functionality of the code, especially if collaborating with others.
+
+Visualising witj Diagrams
+
+How do the diagrams help you visualize the branch structure
+
+The diagrams show which branch each commit affects and make dealing with multiple branches much more managable
