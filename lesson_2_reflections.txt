@@ -1,0 +1,4 @@
+Initializing a Repository
+
+What happens when you initialize a repository? Why do you need to do it?
+Initializing a repository creates the .git directory along with the files neccesary for a git repository. A list of files is created but they are not tracked at first. 

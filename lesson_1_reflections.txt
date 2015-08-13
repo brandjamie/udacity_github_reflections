@@ -1,0 +1,24 @@
+Using history for Efficiency
+
+Having an easy to access history of a doccument makes it easier to remember which changes have been made. Every programmer has had the experience of something that had worked previously, breaking. Having a history makes it easier to go back and find what change caused the breakage. 
+
+Manual Commits
+
+Until computers are able to understand what the programmer is trying to do there is no way for them to know what is an appropriate point to commit. More importantly, forcing users to add a commit message makes it easy to track the progress of development.
+
+Multi-File Commits
+
+Google Docs and similar systems are for wordproccesor or spreadsheet documents which are likely to be used individually. When writing programs there are often a number of files that are connected. Changes in one file can affect another. For these types of projects it is more useful to track changes together. 
+
+Using Git to View History
+
+The git log command is useful for finding when specific changes were made - assuming that good commit messages have been used. I'll be interested to know if there are any ways to seach the log (for keywords or by line number). The git diff command can be useful for comparing versions of a commit. 
+
+Confidence from Version Control
+
+If you know it is easy to undo changes it is easier to take risks. If there is a problem you can simply revert to the previous version.
+
+How Do You Want to Use Git?
+
+I want to use git to track the changes made in my projects to allow me to monitor when features were added or removed, keep track of bugs. In addition, git will allow me to be more adventurous with experimenting as I know any changes can easily be reverted. 
+
