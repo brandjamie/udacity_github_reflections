@@ -8,3 +8,9 @@ Staging Area
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The repository contains all the files that are being tracked. It is not always desirable to track all the files in the working directory. Using the staging area alows the user to choose which files should be tracked together.
+
+Commit Size
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+You can compare the staging area to the previous commit (git diff --staged) and check all the changes that have been made. If there is more than one logical change in different files it may make sense to commit them seperately.
