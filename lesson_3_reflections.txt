@@ -15,3 +15,9 @@ Local Copies of remote branches
 What is the benefit of having a copy of the last know state of the remote stored locally?
 
 You can solve conflicts easier if you have a local copy of the last knonw state of the remote files. 
+
+Collaboration using Git and GitHub
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder.
+
+Almost everything would be harder without git. Collaboration with only one person could be doable with google docs or similar but with more than a couple of people it would quickly become problematic. 
