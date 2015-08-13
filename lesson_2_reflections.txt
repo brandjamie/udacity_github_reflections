@@ -14,3 +14,9 @@ Commit Size
 How can you use the staging area to make sure you have one commit per logical change?
 
 You can compare the staging area to the previous commit (git diff --staged) and check all the changes that have been made. If there is more than one logical change in different files it may make sense to commit them seperately.
+
+When to Use Branches
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be useful for any situation where we are creating a different version of the program. They would also be useful for adding features that could break other functionality of the code, especially if collaborating with others.
