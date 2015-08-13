@@ -2,3 +2,9 @@ Initializing a Repository
 
 What happens when you initialize a repository? Why do you need to do it?
 Initializing a repository creates the .git directory along with the files neccesary for a git repository. A list of files is created but they are not tracked at first. 
+
+Staging Area
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The repository contains all the files that are being tracked. It is not always desirable to track all the files in the working directory. Using the staging area alows the user to choose which files should be tracked together.
